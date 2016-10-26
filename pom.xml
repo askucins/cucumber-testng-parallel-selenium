@@ -8,11 +8,11 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <googlchromedriverbinary.version>2.9</googlchromedriverbinary.version>
+        <googlchromedriverbinary.version>2.24</googlchromedriverbinary.version>
         <source.and.target.JVM.version>1.8</source.and.target.JVM.version>
         <surefire.fork.count>2</surefire.fork.count>
 
-        <com.lazerycode.selenium.version>1.0.0</com.lazerycode.selenium.version>
+        <com.lazerycode.selenium.version>1.0.11</com.lazerycode.selenium.version>
         <info.cukes.cucumber-java.version>1.2.5</info.cukes.cucumber-java.version>
         <info.cukes.cucumber-testng.version>1.2.5</info.cukes.cucumber-testng.version>
         <info.cukes.cucumber-jvm-deps.version>1.0.5</info.cukes.cucumber-jvm-deps.version>
